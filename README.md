@@ -9,5 +9,6 @@
 			vc.encode(game.getSurface());
 		}
 
+		vc.close();
 		...
 
